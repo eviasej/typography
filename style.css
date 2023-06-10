@@ -1,0 +1,57 @@
+.text{
+font-family: 'Jost';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 32px;
+
+color: #000000;
+}
+.list {
+    list-style: none;
+
+    margin-left:auto ;
+    margin-right: auto;
+}
+.group-1,
+.group-1{
+    font-weight: 700;
+}
+
+.group-1{
+font-size: 54px;
+line-height: 56px;
+}
+
+.group-2{
+font-size: 36px;
+line-height: 42px;
+}
+
+.group-3{
+    font-weight: 600;
+}
+
+.group-4{
+font-size: 18px;
+line-height: 24px;
+}
+
+.group-5,
+.group-6{
+font-size: 14px;
+line-height: 20px;
+
+}
+
+.group-5{
+letter-spacing: 2px;
+}
+
+.group-6{
+    font-weight: 400;
+}
+
+#four-text{
+    font-family: 'Work Sans';
+}
